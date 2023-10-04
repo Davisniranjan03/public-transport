@@ -68,9 +68,8 @@ The Public Transportation IoT Project aims to enhance the efficiency and quality
 - [Usage Guide](link-to-usage-doc)
 
 ## Contributors
-- [Your Name](link-to-your-profile)
-- [Team Member 1](link-to-profile)
-- [Team Member 2](link-to-profile)
+- J.Davis Niranjan (https://github.com/Davisniranjan03)
+
 
 ## License
 This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
